@@ -1,0 +1,47 @@
+html{
+    background-color: #22262A;
+    color:white;
+    
+}
+.all{
+    font-family: cursive;
+}
+.header{
+    height: 300px;
+}
+.links{
+    margin-top: 50px;
+    height: 200px;
+    text-align: center;
+}
+.content{
+    height: 625px;
+}
+.ppp{
+height 100px;
+text-align: center;
+}
+#ppp{
+    width: 75px;
+}
+.links img{
+opacity:0.3;
+transition: 1s ease;
+}
+
+.links img:hover{
+opacity:1;
+transition: 0.7s ease;
+}
+.giveaway{
+    text-align: center;
+    height: 700px;
+    width: 500px;
+    margin-left: 700px;
+    border-style: solid;
+    border-color: gray;
+}
+h1{
+    text-align: center;
+    margin-bottom: 50px;
+}
