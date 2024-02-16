@@ -7,22 +7,26 @@ html{
     font-family: cursive;
 }
 .header{
-    height: 300px;
+    height: 30%;
 }
 .links{
-    margin-top: 50px;
-    height: 200px;
+    margin-top: 3%;
+    height: 20%;
     text-align: center;
 }
+.links img{
+    width: 15%;
+}
 .content{
-    height: 625px;
+    height: 70%;
+
 }
 .ppp{
-height 100px;
+height 10%;
 text-align: center;
 }
 #ppp{
-    width: 75px;
+    width: 5%;
 }
 .links img{
 opacity:0.3;
@@ -35,13 +39,16 @@ transition: 0.7s ease;
 }
 .giveaway{
     text-align: center;
-    height: 700px;
-    width: 500px;
-    margin-left: 700px;
+    height: 50%;
+    width: 25%;
     border-style: solid;
     border-color: gray;
+    margin: auto;
+}
+.giveaway img{
+    width: 80%;
 }
 h1{
     text-align: center;
-    margin-bottom: 50px;
+    margin-bottom: 3%;
 }
