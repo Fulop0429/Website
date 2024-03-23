@@ -5,6 +5,7 @@ html{
 }
 .all{
     font-family: sans-serif;
+    width: 100%;
 }
 .header{
     height: 30%;
